@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "APPNOIR",
+    "slug": "APPNOIR",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
